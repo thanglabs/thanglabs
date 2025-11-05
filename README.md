@@ -5,7 +5,6 @@
 
 ### 🧭 About Me  
 - 💡 Passionate about building **scalable, secure, and high-performance systems**.  
-- 🌱 Currently working on a **GPS tracking & vehicle management platform** serving thousands of users daily.  
 - ⚙️ Tech Stack: React Native, ReactJS, Laravel, Python, MySQL, Redis, AWS (ECS Fargate, ALB, CloudFront, WAF).  
 - 🧩 Experienced in **RESTful API design**, **real-time data streaming**, and **cloud architecture optimization**.  
 - 🛠️ Skilled in **CI/CD (GitHub Actions)**, **Docker**, **Python scripting**, and **data automation**.  
